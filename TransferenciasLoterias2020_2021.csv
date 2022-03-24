@@ -1,4 +1,4 @@
-Año_Transfer,Periodo_de_corte,Nit_Transfer,Name_Entidad,Codigo_Departamento,Departamento,Codigo_del_Impuesto,Concepto,Tipo_Sorteo,ValorTransferido,Mes
+Year_Transfer,Periodo_de_corte,Nit_Transfer,Name_Entidad,Codigo_Departamento,Departamento,Codigo_del_Impuesto,Concepto,Tipo_Sorteo,ValorTransferido,Mes
 2020,1,899999270,Lotería de Bogotá,15,Boyacá,1,Impuesto a foráneas,Ordinario,8061000,Enero
 2020,1,800123949,Lotería del Meta,54,Norte De Santander,1,Impuesto a foráneas,Ordinario,8325,Enero
 2020,1,890980058,Lotería de Medellín,19,Cauca,1,Impuesto a foráneas,Ordinario,5366250,Enero
